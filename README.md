@@ -11,3 +11,7 @@ Add your javafx libraries path in lauch.json and settings.json
 
 Run  main class "JuegoMain"
 
+for any issues follow the extension details
+![image](https://github.com/diegoRecinos/Golf/assets/104780516/aeb16ea4-7c51-42a5-88eb-2bd3bece7e1d)
+
+
