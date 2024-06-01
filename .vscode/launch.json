@@ -1,0 +1,33 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "JuegoMain",
+			"request": "launch",
+			"mainClass": "juego.JuegoMain",
+			"projectName": "Golf_abc8340e"
+		},
+		{
+			"type": "java",
+			"name": "JuegoMain",
+			"request": "launch",
+			"mainClass": "juego.JuegoMain",
+			"projectName": "Golf_26e7459e"
+		},
+		{
+			"vmArgs": "--module-path \"C:/Users/orion/Desktop/oop game/Game/Golf/javafx-sdk-21.0.3/lib\" --add-modules javafx.controls,javafx.fxml",
+			"type": "java",
+			"name": "Launch Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"vmArgs": "--module-path \"C:/Users/orion/Desktop/oop game/Game/Golf/javafx-sdk-21.0.3/lib\" --add-modules javafx.controls,javafx.fxml",
+			"type": "java",
+			"name": "Launch App",
+			"request": "launch",
+			"mainClass": "App"
+		}
+	]
+}
