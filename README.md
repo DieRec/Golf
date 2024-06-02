@@ -3,11 +3,12 @@
 add the following VS extensions:
 ![image](https://github.com/diegoRecinos/Golf/assets/104780516/699da4f1-61d6-405a-a5d8-1b7866586291)
 
-Add your javafx libraries path in lauch.json and settings.json 
+Add your javafx-sdk libraries path in lauch.json and settings.json 
 
-![image](https://github.com/diegoRecinos/Golf/assets/104780516/4e0b5b16-e78a-4efa-8209-e6986918524c)
+![image](https://github.com/diegoRecinos/Golf/assets/104780516/c1f5c52f-94a6-46e5-870b-074c421ecf5d)
+![image](https://github.com/diegoRecinos/Golf/assets/104780516/e1c5c1aa-2f22-4df8-91e6-fc617985b2c0)
 
-![image](https://github.com/diegoRecinos/Golf/assets/104780516/302f1fd0-3110-4226-a2f8-a69a498e5c1f)
+
 
 Run  main class "JuegoMain"
 
