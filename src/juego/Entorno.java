@@ -62,7 +62,7 @@ public class Entorno extends JFrame
         setTitle(titulo);
         setVisible(true);
         
-        System.out.println("Entorno de desarrollo 2D para Java de ProgramaciI - UNGS (versi" + version + ")");
+        System.out.println("Entorno de desarrollo 2D para Java de Programacion");
     }
 	
 	/**
