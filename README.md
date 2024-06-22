@@ -22,8 +22,9 @@ Choose Module
 
 ![chooseModule](https://github.com/DieRec/Golf/assets/103729921/80ffef95-dd08-4519-aac1-755508151a7c)
 
-
++ -> Ok
 + -> Apply
+Now you can run the game
 
 (If you clicked cancel)
 + Left click on javafx libraries
