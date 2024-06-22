@@ -24,8 +24,9 @@ Choose Module
 
 + -> Ok
 + -> Apply
-Now you can run the game
-
+  
+Now you can run main class
+------------------------------------------------------------------------------------------------------
 (If you clicked cancel)
 + Left click on javafx libraries
 + Add to Modules
