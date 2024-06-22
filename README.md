@@ -4,7 +4,7 @@ Open project in IntelliJ
 
 Add javafx libraries
 
-![image](https://github.com/DieRec/GolfGameOop/assets/104780516/2f27a42c-ea02-4387-ad53-705ac9600b47)
+![projectimage](https://github.com/DieRec/Golf/assets/103729921/9367282b-5d96-4e9a-95e6-f93b55d035c2)
 
 
 
@@ -12,16 +12,16 @@ Add javafx libraries
 + -> + 
 + -> java
 + set javafx path
+  
+![newLibraries](https://github.com/DieRec/Golf/assets/103729921/73771a54-959a-445e-ad62-16bf515d6838)
 
-![image](https://github.com/DieRec/GolfGameOop/assets/104780516/005d8c8e-eabe-4702-ba33-e53f7366832c)
+![setPath](https://github.com/DieRec/Golf/assets/103729921/6a0f0b24-1294-4dc7-927a-b2d7fece8a6a)
 
-
-
-![image](https://github.com/DieRec/GolfGameOop/assets/104780516/94033b37-5cac-40d4-ae21-10fe8a5e6641)
 
 Choose Module
 
-![image](https://github.com/DieRec/GolfGameOop/assets/104780516/803494d4-6ae0-4277-8ae2-efdd874cc3a1)
+![chooseModule](https://github.com/DieRec/Golf/assets/103729921/80ffef95-dd08-4519-aac1-755508151a7c)
+
 
 + -> Apply
 
@@ -29,11 +29,12 @@ Choose Module
 + Left click on javafx libraries
 + Add to Modules
   
-![image](https://github.com/DieRec/GolfGameOop/assets/104780516/8d5627cf-2790-422f-b2c9-d9875ba6696e)
+![AddToModules](https://github.com/DieRec/Golf/assets/103729921/69c09822-8be6-4bb1-8228-55265685f963)
+
 
 Choose module
 
-![image](https://github.com/DieRec/GolfGameOop/assets/104780516/803494d4-6ae0-4277-8ae2-efdd874cc3a1)
+![chooseModule](https://github.com/DieRec/Golf/assets/103729921/80ffef95-dd08-4519-aac1-755508151a7c)
 
 
 Apply
