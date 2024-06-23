@@ -14,7 +14,7 @@ public class JuegoMain extends InterfaceJuego
 	// El objeto Entorno que controla el tiempo y otros
 	private Entorno entorno;
 	
-	// Variables y mÃ©todos propios de cada grupo
+	// Variables y metodos propios de cada grupo
 	private Bola bola;
 	private Generador generador;	
 	private Controles controles;
